@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace First
+namespace First.Task8
 {
     public class Phone
     {
@@ -12,6 +12,7 @@ namespace First
         public int PhoneModel { get; set; }
         public string PhoneName { get; set; }
         public string PhoneColor { get; set; }
+        public int PhoneYear { get; set; }
 
 
 
