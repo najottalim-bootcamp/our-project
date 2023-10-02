@@ -8,6 +8,8 @@ namespace First.Task_3
 {
     public class Task_3
     {
-
+        public int Id { get; set; }
+        public string ?Name { get; set; }
+        public string ?Description { get; set; }
     }
 }
