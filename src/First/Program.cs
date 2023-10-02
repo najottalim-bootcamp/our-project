@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!, Its Aziz's sms");
-Console.WriteLine("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
+﻿using First.Task_4;
+
+Aziz_s.GetPerson();
