@@ -12,5 +12,9 @@ namespace First.task20
         public string Name { get; set; }    
         public string SureName { get; set; }
         public int PhoneNumber {  get; set; }
+        public string PhoneNumber2 { get; set; }
+
+        public string PhoneNumber3 { get; set;}
+        public string PhoneNumber4 { get; set;}
     }
 }
