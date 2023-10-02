@@ -7,13 +7,18 @@ public class Operators
     {
         Console.WriteLine($"a + b = {a + b}");
     }
-    public void Div(int a, int b)
+    public void Minus(int a, int b)
     {
         Console.WriteLine($"a - b = {a - b}");
     }
 
-    public void Mult(int a, int b)
+    public void Multi(int a, int b)
     {
         Console.WriteLine($"a * b = {a * b}");
+    }
+
+    public void Div(int a, int b)
+    {
+        Console.WriteLine($"a / b = {a / b}");
     }
 }
