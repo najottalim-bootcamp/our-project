@@ -8,6 +8,6 @@ namespace First.task_9
 {
     public class task_9
     {
-        //cont
+        //pustoy classs
     }
 }
