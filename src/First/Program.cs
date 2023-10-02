@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("What is love?");
+
+
+
+public class Operators
+{
+    public void Sum(int a, int b)
+    {
+        Console.WriteLine($"a + b = {a + b}");
+    }
+    public void Div(int a, int b)
+    {
+        Console.WriteLine($"a - b = {a - b}");
+    }
+}
