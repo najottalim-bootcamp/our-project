@@ -1,0 +1,15 @@
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\bin\Debug\net6.0\First.exe
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\bin\Debug\net6.0\First.deps.json
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\bin\Debug\net6.0\First.runtimeconfig.json
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\bin\Debug\net6.0\First.dll
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\bin\Debug\net6.0\First.pdb
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\obj\Debug\net6.0\First.csproj.AssemblyReference.cache
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\obj\Debug\net6.0\First.GeneratedMSBuildEditorConfig.editorconfig
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\obj\Debug\net6.0\First.AssemblyInfoInputs.cache
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\obj\Debug\net6.0\First.AssemblyInfo.cs
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\obj\Debug\net6.0\First.csproj.CoreCompileInputs.cache
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\obj\Debug\net6.0\First.dll
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\obj\Debug\net6.0\refint\First.dll
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\obj\Debug\net6.0\First.pdb
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\obj\Debug\net6.0\First.genruntimeconfig.cache
+D:\KOMRON\Najot_ta'lim\dot_net\dars\4-oy(Takrorlash)\02-10-2023\our-project\our-project\src\First\obj\Debug\net6.0\ref\First.dll
