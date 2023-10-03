@@ -9,5 +9,9 @@ namespace First.Task_16
     internal class Example
     {
         public int ID { get; set; }
+        public Example()
+        {
+            
+        }
     }
 }
